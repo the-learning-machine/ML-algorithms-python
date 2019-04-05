@@ -12,12 +12,13 @@ The author is responsible for the content and quality of the code. Please refer 
 - [Neural Network Classifier](./Classification/neural_networks_classifier.ipynb)
 - [Linear Support Vector Machines (LSVM)](./Classification/linear_svm.ipynb)
 - [Logistic Regression](./Classification/logistic_regression.ipynb)
-- Multiclass Classification
+- [MultiLayer Perceptron (MLP)](./Classification/mlp_pytorch.ipynb): Applied to Multiclass Classification
 - [Kernelized Support Vector Machines (SVM)](./Classification/kernelized_svm.ipynb)
 - [Decision Trees](./Classification/decision_trees.ipynb)
 - [Naive Bayes Classifiers](./Classification/naive_bayes_classifiers.ipynb)
 - [Random Forests](./Classification/random_forests.ipynb)
 - [Recurrent Neural Network (RNN)](./Classification/rnn_pytorch.ipynb): Applied to MNIST Classification Task
+
 ## Regression
 - [Neural Network Regressor](./Regression/neural_networks_regressor.ipynb)
 - [Ridge Regression](./Regression/ridge_regression.ipynb)
